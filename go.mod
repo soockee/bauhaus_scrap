@@ -3,17 +3,20 @@ module soockee/bauhaus_scrap
 go 1.23.1
 
 require (
+	github.com/antchfx/xmlquery v1.4.2
+	github.com/geziyor/geziyor v0.0.0-20240812061556-229b8ca83ac1
+)
+
+require (
 	github.com/PuerkitoBio/goquery v1.10.0 // indirect
 	github.com/VividCortex/gohistogram v1.0.0 // indirect
 	github.com/andybalholm/cascadia v1.3.2 // indirect
-	github.com/antchfx/xmlquery v1.4.2 // indirect
-	github.com/antchfx/xpath v1.3.2 // indirect
+	github.com/antchfx/xpath v1.3.6 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
 	github.com/chromedp/cdproto v0.0.0-20241110205750-a72e6703cd9b // indirect
 	github.com/chromedp/chromedp v0.11.2 // indirect
 	github.com/chromedp/sysutil v1.1.0 // indirect
-	github.com/geziyor/geziyor v0.0.0-20240812061556-229b8ca83ac1 // indirect
 	github.com/go-kit/kit v0.13.0 // indirect
 	github.com/gobwas/httphead v0.1.0 // indirect
 	github.com/gobwas/pool v0.2.1 // indirect
